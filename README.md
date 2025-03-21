@@ -1,16 +1,6 @@
-## Hi there 👋
+## olá eu sou o Marcos  👋
 
-<!--
-**Reizx77/Reizx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje não trablho, em busca de estagio 
-- 🌱 Estudando java
+- 🔭 Hoje não trabalho, em busca de estagio 
+- 🌱 Estudando java, swiftUI e python
 - 👯 Contate-me no e-mail: marcoseduardoreis6@gmail.com
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Interesse em todo tipo de inteligencia artificial desde a criaçao até a execução

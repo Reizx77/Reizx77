@@ -1,4 +1,4 @@
-## olá eu sou o Marcos  👋
+## Olá eu sou o Marcos  👋
 
 - 🔭 Hoje não trabalho, em busca de estagio 
 - 🌱 Estudando java, swiftUI e python
